@@ -11,37 +11,33 @@
   </picture>
 </a>
 
-Convert a photo or untangle some JSON. MORELESS is a collection of free online tools for the small jobs that interrupt your day.
+Convert a photo or make a wall of JSON readable. MORELESS brings everyday web tools together, free to use without registration.
 
-**[Open the tools ↗](https://moreless.tools/en/)** &nbsp; · &nbsp; [Suggest a tool](https://github.com/moreless-tools/community/issues/new/choose)
+**[Explore the tools](https://moreless.tools/en/)** · [Suggest a feature](https://moreless.tools/en/feedback/)
 
-### A few useful starting points
+### Start with a job
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top"><a href="https://moreless.tools/en/tools/image-converter/"><strong>Image Converter</strong></a><br>Change an image to the format you need.</td>
-    <td width="50%" valign="top"><a href="https://moreless.tools/en/tools/qr-code-generator/"><strong>QR Code Generator</strong></a><br>Make a QR code for your link.</td>
+    <td width="50%" valign="top"><a href="https://moreless.tools/en/tools/image-converter/"><strong>Convert an image</strong></a><br>Get the file format you need.</td>
+    <td width="50%" valign="top"><a href="https://moreless.tools/en/tools/qr-code-generator/"><strong>Create a QR code</strong></a><br>Turn a link into a code you can share.</td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><a href="https://moreless.tools/en/tools/json-formatter/"><strong>JSON Formatter</strong></a><br>Make a wall of JSON readable.</td>
-    <td width="50%" valign="top"><a href="https://moreless.tools/en/tools/color-studio/"><strong>Color Studio</strong></a><br>Pick a color and build a palette.</td>
+    <td width="50%" valign="top"><a href="https://moreless.tools/en/tools/json-formatter/"><strong>Format JSON</strong></a><br>Make it easier to read and check.</td>
+    <td width="50%" valign="top"><a href="https://moreless.tools/en/tools/color-studio/"><strong>Build a color palette</strong></a><br>Find colors that work together.</td>
   </tr>
 </table>
 
-The web tools are free to use, without registration.
+### MORELESS for Mac
 
-### MORELESS for Mac is in development
+We're developing tools for the menu bar and actions in Finder, so you can work with a file where you found it. The web tools stay free. Paid Mac features will focus on native workflows.
 
-We're building MORELESS for the menu bar, command palette and Finder's right-click menu. The web tools stay free; paid Mac features will focus on native workflows.
+### Keep up with MORELESS
 
-### Help shape what comes next
+Follow for new tools and progress on the Mac app.
 
-Found a bug? Missing a tool? **[Tell us in the community hub](https://github.com/moreless-tools/community)**. Clear examples help: what you were trying to do, what happened, and what you expected.
+[Reddit](https://www.reddit.com/r/moreless_official/) · [LinkedIn](https://www.linkedin.com/company/moreless-s-r-o/) · [Instagram](https://www.instagram.com/moreless_official/) · [Facebook](https://www.facebook.com/profile.php?id=61564026398953) · [X](https://x.com/moreless_it)
 
-You can also [join the Discord](https://discord.gg/dyZFqFVncz) or pass [moreless.tools](https://moreless.tools/en/) to someone who could use it.
+[Visit the feedback board](https://moreless.tools/en/feedback/) to suggest a feature, vote on requests or check known issues. You can also [join Discord](https://discord.gg/dyZFqFVncz).
 
----
-
-Built by Daniel in Prague. **MORELESS s.r.o.**
-
-[Business & partnerships](mailto:hello@moreless.tools) &nbsp; · &nbsp; [X](https://x.com/moreless_it) &nbsp; · &nbsp; [Reddit](https://www.reddit.com/r/moreless_official/) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/company/moreless-s-r-o/) &nbsp; · &nbsp; [Facebook](https://www.facebook.com/profile.php?id=61564026398953)
+[Contact MORELESS](mailto:hello@moreless.tools) · [Third-party licenses](https://moreless.tools/en/legal/third-party-licenses/)
