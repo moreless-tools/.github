@@ -1,10 +1,13 @@
-<a href="https://moreless.tools/en/">
+<a href="https://moreless.tools/en/#gh-dark-mode-only">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moreless-tools/.github/main/moreless-cover-mobile-dark.svg">
-    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moreless-tools/.github/main/moreless-cover-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moreless-tools/.github/main/moreless-cover-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moreless-tools/.github/main/moreless-cover-light.svg">
-    <img alt="MORELESS. The tool you were about to Google." src="https://raw.githubusercontent.com/moreless-tools/.github/main/moreless-cover-light.svg" width="1600">
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/moreless-tools/.github/main/moreless-cover-mobile-dark.svg">
+    <img alt="MORELESS. The tool you were about to Google." src="https://raw.githubusercontent.com/moreless-tools/.github/main/moreless-cover-dark.svg#gh-dark-mode-only" width="1600">
+  </picture>
+</a>
+<a href="https://moreless.tools/en/#gh-light-mode-only">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/moreless-tools/.github/main/moreless-cover-mobile-light.svg">
+    <img alt="MORELESS. The tool you were about to Google." src="https://raw.githubusercontent.com/moreless-tools/.github/main/moreless-cover-light.svg#gh-light-mode-only" width="1600">
   </picture>
 </a>
 
