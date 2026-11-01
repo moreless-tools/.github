@@ -58,7 +58,7 @@ We're developing a Mac app with a custom Dock, a command palette, clipboard hist
 
 [Guides](https://moreless.tools/en/docs/) · [Troubleshooting](https://moreless.tools/en/docs/faq/troubleshooting/) · [Web updates](https://moreless.tools/en/changelog/web/) · [YouTube](https://www.youtube.com/@moreless_official)
 
-[Discord](https://discord.gg/tfuN2Wjpk5) · [Reddit](https://www.reddit.com/r/moreless_official/) · [LinkedIn](https://www.linkedin.com/company/moreless-s-r-o/) · [Instagram](https://www.instagram.com/moreless_official/) · [Facebook](https://www.facebook.com/profile.php?id=61564026398953) · [X](https://x.com/moreless_it)
+[Reddit](https://www.reddit.com/r/moreless_official/) · [LinkedIn](https://www.linkedin.com/company/moreless-s-r-o/) · [Instagram](https://www.instagram.com/moreless_official/) · [Facebook](https://www.facebook.com/profile.php?id=61564026398953) · [X](https://x.com/moreless_it)
 
 Made by **MORELESS s.r.o.** in Prague, Czech Republic.
 
