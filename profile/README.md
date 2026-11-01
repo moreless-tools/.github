@@ -16,7 +16,7 @@ We're building MORELESS as one product for working with documents, images, text 
 
 Type a task or drop in a file and MORELESS offers a matching action. The palette also handles calculations, equations and unit or currency conversions as you type.
 
-**[Open MORELESS](https://moreless.tools/en/)** · [Read the guides](https://moreless.tools/en/docs/) · [Suggest a feature](https://moreless.tools/en/feedback/)
+**[Open MORELESS](https://moreless.tools/en/)** · [Read the guides](https://moreless.tools/en/docs/) · [Demos and sample files](https://github.com/moreless-tools/moreless) · [Suggest a feature](https://moreless.tools/en/feedback/)
 
 ### Inside MORELESS
 
@@ -60,7 +60,7 @@ MORELESS for Mac is **in development**. We're bringing the product into the menu
 
 ### Talk with MORELESS
 
-[Visit the feedback board](https://moreless.tools/en/feedback/) to suggest a feature, vote on requests or check known issues. To report a bug, choose **Report a problem** in the website footer. For security reports or anything that should stay private, email [hello@moreless.tools](mailto:hello@moreless.tools).
+[Visit the feedback board](https://moreless.tools/en/feedback/) to suggest a feature, vote on requests or check known issues. To report a bug, choose **Report a problem** in the website footer. For security reports or anything that should stay private, email [daniel@moreless.solutions](mailto:daniel@moreless.solutions).
 
 [Guides](https://moreless.tools/en/docs/) · [Troubleshooting](https://moreless.tools/en/docs/faq/troubleshooting/) · [Web updates](https://moreless.tools/en/changelog/web/) · [YouTube](https://www.youtube.com/@moreless_official)
 
